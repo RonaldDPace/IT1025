@@ -1,12 +1,14 @@
 ### Executive Summary - this is an example... be sure to compose your own original summary
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+The purpose of Lab 1 is to create a GitHub account to house artifacts for IT1025 and examine types and compnents of an Information System.
 
 ### Information System Components
+daily uses are; cell phones,internet ,home security systems,wireless devices.
+consists of the following;hardware(harddrives,displayskeyboards),software(word,cubase,logicpro),database(structured data held in a computer) ,network(computing devices that exchange data using connections using nodes),and people(programers,analysts,help desk).Together they input,process,output,feedback,and control data and/or information.
 
 
 ### GitHub
-##### Client - Server Architecture
-##### Cloud Computing
+##### Client - Server Architecture ;aspects accomplished are the client of a website refers to the web browser and the website is the server or host.What this means to the client side is servers,storage,maintenance,and programing is done on the server's side.
+##### Cloud Computing;dropbox,onenote,are two forms of cloud computing.
 
 ### Hardware
 ##### Hard Drives and Memory
@@ -16,5 +18,4 @@ The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history
 ##### IEEE
 
 ### Conclusion
-
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
+Lab 1 gets you acclimated to the components of Information Systems,and resoures that are relevent to programming,analizing,storing,retrieving,and inputing data.
