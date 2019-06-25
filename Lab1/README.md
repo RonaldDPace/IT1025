@@ -8,7 +8,7 @@ consists of the following;hardware(harddrives,displayskeyboards),software(word,c
 
 ### GitHub
 ##### Client - Server Architecture ;aspects accomplished are the client of a website refers to the web browser and the website is the server or host.What this means to the client side is servers,storage,maintenance,and programing is done on the server's side.
-##### Cloud Computing;dropbox,onenote,are two forms of cloud computing.
+##### Cloud Computing;dropbox,onenote,are two other forms of cloud computing.
 
 ### Hardware
 ##### Hard Drives and Memory
