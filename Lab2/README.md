@@ -34,6 +34,8 @@ Hypervisor allows one host computer to support multiple guest virtual machines b
 
 ### Python
 
+Pseudo-code nature of pyhton is; a simlpe powerful language that focuses on salutions to the problems rather than syntax and language structure in programming in an almost like strict english language.
+
 ### Career Exploration
 ##### College Central
 ##### Certifications
