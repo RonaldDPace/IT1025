@@ -11,6 +11,7 @@ The decimal system is based on 10 characters 0-9,The binary system is based on 2
 
 
 ##### Hexadecimal Color Representation
+hex#ff016b = a decimal value of 16712043 / 100% red, .4% green, and 42% blue
 
 ### Software
 
