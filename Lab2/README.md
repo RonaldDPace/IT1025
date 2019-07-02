@@ -36,6 +36,14 @@ Hypervisor allows one host computer to support multiple guest virtual machines b
 
 Pseudo-code nature of pyhton is; a simlpe powerful language that focuses on salutions to the problems rather than syntax and language structure in programming in an almost like strict english language.
 
+Interpeted Language:
+it requires no compilation simply run the program from the source-code which python achieves.
+
+Verses
+
+Compiled Language:
+as C C++ they convert the language to binary using a compiler with flags and symbols then a linker/loader software copies the program from HD to memory then starts the program.
+
 ### Career Exploration
 ##### College Central
 ##### Certifications
