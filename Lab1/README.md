@@ -1,4 +1,4 @@
-### Executive Summary - this is an example... be sure to compose your own original summary
+### Executive Summary 
 The purpose of Lab 1 is to create a GitHub account to house artifacts for IT1025 and examine types and compnents of an Information System.
 
 ### Information System Components
