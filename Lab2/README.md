@@ -46,6 +46,9 @@ as C C++ they convert the language to binary using a compiler with flags and sym
 
 ### Career Exploration
 ##### College Central
+
+In my exploration of this resource,(College Central) it offers great support to attain gainful employment( resumes,internships,career portfolios,learnings,job posting,and more..).
+
 ##### Certifications
 ##### Certificates and Degrees
 ##### Co-ops / Internships
