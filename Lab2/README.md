@@ -60,8 +60,11 @@ In my exploration of this resource, (College Central) it offers great support to
 ##### Certifications
 
 CompTIA:
+
 Cisco:
+
 CISSP:
+In my finding this seems to be the most prestigious
 
 
 ##### Certificates and Degrees
