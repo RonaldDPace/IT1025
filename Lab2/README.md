@@ -5,6 +5,7 @@
 
 The decimal system is based on 10 characters 0-9,The binary system is based on 2 characters and multiples of 2 consisting of 0's and 1's The hexadecimal system is base on 16 charaters 0-9 and ABCDEF
 
+
 ### Decimal Conversion
 
 ### Binary Conversion
@@ -15,6 +16,7 @@ The decimal system is based on 10 characters 0-9,The binary system is based on 2
 hex#ff016b = a decimal value of 16712043 / 100% red, .4% green, and 42% blue
 
 hex#ff016b could be problematic because of color blindness
+
 
 ### Software
 
@@ -42,6 +44,7 @@ Verses
 Compiled Language:
 as C C++ they convert the language to binary using a compiler with flags and symbols then a linker/loader software copies the program from HD to memory then starts the program.
 
+
 ### Career Exploration
 
 The Bureau of Labor Statistics report on Information Security Analyst shows as of 2018:
@@ -53,9 +56,11 @@ Number of jobs in 2016 - 100,000
 Job Outlook,2016-26 - 28% 
 Employment Change, 2016-26 - 28,500
 
+
 ##### College Central
 
 In my exploration of this resource, (College Central) it offers great support to attain gainful employment( resumes,internships,career portfolios,learnings,job posting,and more..).
+
 
 ##### Certifications
 
@@ -72,12 +77,15 @@ Cybersecurity (post-degree professional certificate)
 Cybersecurity Analytics (industrial certificate)
 Scyber (industrial certificate)
 
+
 ##### Co-ops / Internships
 Experiential Learning:
 To be co-op ready you must meet the following;
 1) Current enrollment at Tri-C
 2) Have completed 12 credit hrs in course work in the related field
 3) GPA of 3.75 or higher
+
+
 ##### Industry Associations / Student Organizations
 Student Clubs:
 
