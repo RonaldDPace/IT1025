@@ -53,12 +53,19 @@ Work Experience in a related field - less than 5 years
 On-the-job Training - none
 Number of jobs in 2016 - 100,000
 Job Outlook,2016-26 - 28% 
-Employment Change, 2016-26 - 28,500
+Employment Change, 2016-26 - 28,50
+
 ##### College Central
 
 In my exploration of this resource,(College Central) it offers great support to attain gainful employment( resumes,internships,career portfolios,learnings,job posting,and more..).
 
 ##### Certifications
+
+CompTIA:
+Cisco:
+CISSP:
+
+
 ##### Certificates and Degrees
 ##### Co-ops / Internships
 ##### Industry Associations / Student Organizations
