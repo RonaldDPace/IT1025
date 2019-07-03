@@ -74,6 +74,10 @@ Scyber (industrial certificate)
 
 ##### Co-ops / Internships
 Experiential Learning:
+To be co-op ready you must meet the following;
+1) Current enrollment at Tri-C
+2) Have completed 12 credit hrs in course work in the related field
+3) GPA of 3.75 or higher
 ##### Industry Associations / Student Organizations
 Student Clubs:
 
