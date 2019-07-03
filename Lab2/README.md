@@ -1,7 +1,5 @@
-Lab 2
-### Executive Summary 
-Include your executive summary here...
 
+### Executive Summary 
 ### Data Representation
 ##### Numeric Conversions
 
