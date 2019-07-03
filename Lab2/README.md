@@ -60,9 +60,7 @@ In my exploration of this resource, (College Central) it offers great support to
 ##### Certifications
 
 CompTIA:
-
 Cisco:
-
 CISSP:
 In my finding this seems to be the most prestigious
 
@@ -73,6 +71,7 @@ Tri-C IT Programs:
 Cybersecurity (post-degree professional certificate)
 Cybersecurity Analytics (industrial certificate)
 Scyber (industrial certificate)
+
 ##### Co-ops / Internships
 Experiential Learning:
 ##### Industry Associations / Student Organizations
