@@ -70,7 +70,9 @@ CISSP:
 
 Tri-C IT Programs:
 ##### Co-ops / Internships
+Experiential Learning:
 ##### Industry Associations / Student Organizations
+Student Clubs:
 
 ### Conclusion
 
