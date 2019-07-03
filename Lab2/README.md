@@ -57,7 +57,7 @@ Employment Change, 2016-26 - 28,50
 
 ##### College Central
 
-In my exploration of this resource,(College Central) it offers great support to attain gainful employment( resumes,internships,career portfolios,learnings,job posting,and more..).
+In my exploration of this resource, (College Central) it offers great support to attain gainful employment( resumes,internships,career portfolios,learnings,job posting,and more..).
 
 ##### Certifications
 
