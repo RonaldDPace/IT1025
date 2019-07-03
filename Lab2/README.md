@@ -45,6 +45,15 @@ Compiled Language:
 as C C++ they convert the language to binary using a compiler with flags and symbols then a linker/loader software copies the program from HD to memory then starts the program.
 
 ### Career Exploration
+
+The Bureau of Labor Statistics report on Information Security Analyst shows as of 2018:
+Median Pay - 98k yr
+Entry Education - Bachelor's degree
+Work Experience in a related field - less than 5 years
+On-the-job Training - none
+Number of jobs in 2016 - 100,000
+Job Outlook,2016-26 - 28% 
+Employment Change, 2016-26 - 28,500
 ##### College Central
 
 In my exploration of this resource,(College Central) it offers great support to attain gainful employment( resumes,internships,career portfolios,learnings,job posting,and more..).
