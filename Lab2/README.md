@@ -79,6 +79,7 @@ Scyber (industrial certificate)
 
 
 ##### Co-ops / Internships
+
 Experiential Learning:
 To be co-op ready you must meet the following;
 1) Current enrollment at Tri-C
@@ -87,7 +88,11 @@ To be co-op ready you must meet the following;
 
 
 ##### Industry Associations / Student Organizations
+
 Student Clubs:
+
+The Cybersecurity Club seems to be an ideal resource for anyone in or interested in the field
+
 
 ### Conclusion
 
