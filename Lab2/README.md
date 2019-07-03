@@ -74,4 +74,3 @@ Student Clubs:
 
 ### Conclusion
 
-Include your professional conclusion here
