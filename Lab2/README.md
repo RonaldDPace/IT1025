@@ -53,7 +53,7 @@ Work Experience in a related field - less than 5 years
 On-the-job Training - none
 Number of jobs in 2016 - 100,000
 Job Outlook,2016-26 - 28% 
-Employment Change, 2016-26 - 28,50
+Employment Change, 2016-26 - 28,500
 
 ##### College Central
 
@@ -67,6 +67,8 @@ CISSP:
 
 
 ##### Certificates and Degrees
+
+Tri-C IT Programs:
 ##### Co-ops / Internships
 ##### Industry Associations / Student Organizations
 
