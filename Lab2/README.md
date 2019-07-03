@@ -70,6 +70,9 @@ In my finding this seems to be the most prestigious
 ##### Certificates and Degrees
 
 Tri-C IT Programs:
+Cybersecurity (post-degree professional certificate)
+Cybersecurity Analytics (industrial certificate)
+Scyber (industrial certificate)
 ##### Co-ops / Internships
 Experiential Learning:
 ##### Industry Associations / Student Organizations
