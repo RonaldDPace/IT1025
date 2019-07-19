@@ -3,6 +3,10 @@ Include your executive summary here...
 
 ### Python IDLE
 
+The differences between these editors :
+Shell; It runs one instruction at a time.
+ File; It runs the typed complete program.
+
 ##### Code Examples
 
 ### Graphics
