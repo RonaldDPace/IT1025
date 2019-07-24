@@ -35,7 +35,11 @@ Lossy Compression uses less image data resulting in a lessor quality image,and a
 ##### File Formats
 
 GIF:JPEG:PNG:
-similarities are
+
+Similarities:  They are the most commonly found in web design.
+Differences :  GIF ideal for animation,line drawing,and simple graphics. JPEG great for saving memory space with smaller file sizes for                movies and games though it causes refracting. PNG great for photos with high contrast,transparency especially alpha                      channel transparency.
+
+
 ##### File Properties
 
 ### Lucidchart
