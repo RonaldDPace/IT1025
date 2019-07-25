@@ -42,6 +42,10 @@ Differences :  GIF ideal for animation,line drawing,and simple graphics. JPEG gr
 
 ##### File Properties
 
+My logo image has 4 layers.
+Properties of it's file are : Size 7.67Kb, Size on disk 32Kb, and it opens in chrome.
+        
+
 ### Lucidchart
 
 ### Introduction to Networking
