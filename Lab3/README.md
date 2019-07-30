@@ -47,14 +47,31 @@ Properties of it's file are : Size 7.67Kb, Size on disk 32Kb, and it opens in ch
         
 
 ### Lucidchart
+
 ### Summary
 
 My Lucidchart experience introduced the basic process to Programming Methodologies, that is, the process of Analyzing complexed real-life problems, Planning for software development, and Controlling that process. Using Descission Flow Charts to simplify the process.
 
 ### Introduction to Networking
+
 ##### Data Transmission
+
+
+
 ##### Networking Hardware
+
+Benefit of a switch over a hub a is ; a hub can't detect, specific devices,direct data to the correct MAC address, keep record of MAC addresses of the devices it directs data to.
+
+Benefit of a router over hubs and switches is ; a router can route data from network to netwwork by IP addresses.
+
+
 ##### Network Topologies
+
+Single point of failure happens when a part of the system stops working causing the entire system to fail, such as, a router in your smart-home,  a software application for a business practice.
+
+Infrastrucure Topology compared to a Wireless Mesh:
+A basic infrastructural network is hard-wired system which can get expensive with need of multible access points but reliable with-in reason. A wireless Mesh network would be cost feasible in reference installation cost,construction down time(inconvinces).
+In my opinion as to which is better it really depends on the size , the number of access points needed, and the locations or distance of those points.
 ##### Network Design
 ##### NSA/CSS
 
