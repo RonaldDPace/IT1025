@@ -47,6 +47,9 @@ Properties of it's file are : Size 7.67Kb, Size on disk 32Kb, and it opens in ch
         
 
 ### Lucidchart
+### Summary
+
+My Lucidchart experience introduced the basic process to Programming Methodologies, that is, the process of Analyzing complexed real-life problems, Planning for software development, and Controlling that process. Using Descission Flow Charts to simplify the process.
 
 ### Introduction to Networking
 ##### Data Transmission
