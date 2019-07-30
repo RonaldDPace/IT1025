@@ -70,7 +70,7 @@ Benefit of a router over hubs and switches is ; a router can route data from net
 Single point of failure happens when a part of the system stops working causing the entire system to fail, such as, a router in your smart-home,  a software application for a business practice.
 
 Infrastrucure Topology compared to a Wireless Mesh:
-A basic infrastructural network is hard-wired system which can get expensive with need of multible access points but reliable with-in reason. A wireless Mesh network would be cost feasible in reference installation cost,construction down time(inconvinces).
+A basic infrastructural network is hard-wired system which can get expensive with need of multible access points but reliable with-in reason. A wireless Mesh network would be cost feasible in reference installation cost,construction down time (inconvinces).
 In my opinion as to which is better it really depends on the size , the number of access points needed, and the locations or distance of those points.
 ##### Network Design
 ##### NSA/CSS
