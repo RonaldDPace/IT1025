@@ -72,8 +72,14 @@ Single point of failure happens when a part of the system stops working causing 
 Infrastrucure Topology compared to a Wireless Mesh:
 A basic infrastructural network is hard-wired system which can get expensive with need of multible access points but reliable with-in reason. A wireless Mesh network would be cost feasible in reference installation cost,construction down time (inconvinces).
 In my opinion as to which is better it really depends on the size , the number of access points needed, and the locations or distance of those points.
+
+
 ##### Network Design
 ##### NSA/CSS
+
+The NSA's role in U.S. cybersecurity save lives by defending vital networks globally, advancing U.S. goals and alliances, protecting U.S. citizens privacy rights, and overcome real threats to our country discovering adversarie's secrets,protecting U.S. secrets, and outmaneuvering our adversaries in cyberspace.
+
+
 
 ### Conclusion
 Include your professional conclusion here
