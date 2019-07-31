@@ -18,6 +18,7 @@ Three data types : int , float , string .
 
 ### Graphics
 
+
 ##### Raster vs. Vector Graphics
 
 Raster Graphics uses pixels and when the image is enlarged  it loses quality.
@@ -37,7 +38,7 @@ Lossy Compression uses less image data resulting in a lessor quality image,and a
 GIF:JPEG:PNG:
 
 Similarities:  They are the most commonly found in web design.
-Differences :  GIF ideal for animation,line drawing,and simple graphics. JPEG great for saving memory space using smaller file sizes for                movies and games, though it causes refracting. PNG great for photos with high contrast,transparency especially alpha                      channel transparency.
+Differences :  GIF ideal for animation,line drawing,and simple graphics. JPEG great for saving memory space using smaller file                sizes for movies and games, though it causes refracting. PNG great for photos with high contrast,transparency                  especially alpha channel transparency.
 
 
 ##### File Properties
@@ -50,15 +51,19 @@ Properties of it's file are : Size 7.67Kb, Size on disk 32Kb, and it opens in ch
 
 ### Summary
 
+
 My Lucidchart experience introduced the basic process to Programming Methodologies, that is, the process of Analyzing complexed real-life problems, Planning for software development, and Controlling that process. Using Descission Flow Charts to simplify the process.
 
 ### Introduction to Networking
 
 ##### Data Transmission
 
+The relationship of these terms takes this process ; first protocol for packets to sent to an IP address through a router or switching unit which is addressed to the proper DNS.
+
 
 
 ##### Networking Hardware
+
 
 Benefit of a switch over a hub a is ; a hub can't detect, specific devices,direct data to the correct MAC address, keep record of MAC addresses of the devices it directs data to.
 
@@ -67,6 +72,7 @@ Benefit of a router over hubs and switches is ; a router can route data from net
 
 ##### Network Topologies
 
+
 Single point of failure happens when a part of the system stops working causing the entire system to fail, such as, a router in your smart-home,  a software application for a business practice.
 
 Infrastrucure Topology compared to a Wireless Mesh:
@@ -74,12 +80,14 @@ A basic infrastructural network is hard-wired system which can get expensive wit
 In my opinion as to which is better it really depends on the size , the number of access points needed, and the locations or distance of those points.
 
 
+
 ##### Network Design
+
 ##### NSA/CSS
+
 
 The NSA's role in U.S. cybersecurity save lives by defending vital networks globally, advancing U.S. goals and alliances, protecting U.S. citizens privacy rights, and overcome real threats to our country discovering adversarie's secrets,protecting U.S. secrets, and outmaneuvering our adversaries in cyberspace.
 
 
 
 ### Conclusion
-Include your professional conclusion here
