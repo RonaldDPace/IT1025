@@ -8,7 +8,7 @@
 
       Each component of The Security Triad  would impact my job at Amazon :
       
-      Confidentiality; Only share information about your duties and resources about your job with                        authoriized personnel.
+      Confidentiality; Only share information about your duties and resources about my job with                        authoriized personnel.
            Integrity; Assure information needed to perform job duties can be trusted consistantly 
                       with out malicious intentional nor unintentional misrepresntation.
         Availability; I would need to provide access to my work files for constituents.
