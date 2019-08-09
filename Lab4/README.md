@@ -30,6 +30,9 @@
       RBAC is a role based access control . The advantage to rbac is it can be easily modified when changing the duties that         are assigned, making managing less complexed over an ACL.
       
       
+      The interaction of ciphertext: a sender uses a public key to encrypt and send plaintext which becomes ciphertext, then         recipient then use a private to to decode it.
+      
+      
       
                                             
       
