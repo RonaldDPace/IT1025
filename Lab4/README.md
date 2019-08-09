@@ -36,21 +36,24 @@
       A public key is needed to begin the encryption with the private key.
                                             
       
+     
+##### Cryptography
+
       
-        
-       
-        
-        
-        
-
-##### Cryptography 
-
+      Encryption is achieved by a three position shift of letters.( Caesar Cipher Exploration ) 
+      
+      The result in using the "Frequency Fingerprint Exploration" it showed how many times  each letter been used in my             sentences. Where other langages are concerned yes the out-come would differ because of the spellings of words.
+      
+      A "Polyalphabetic cipher" is a cipher that uses multiple subsitution alphabets.
+      
+      Polyalphabetical Exploration was a multi-shift fingerprint that's difficult to decipher.
 
 
 ##### Brute-Force
 
-
-
+      "Brute-Force" cryptanalytic technique is trying ever possible decryption key for a cipher.
+       How this relates to Kerckhoffs"s principle is part of the cipher remains secret even when it's known
+       how the cipher works.
 
 ### Internet Architecture
 
