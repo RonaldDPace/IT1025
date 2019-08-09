@@ -33,7 +33,7 @@
       The interaction of ciphertext: a sender uses a public key to encrypt and send plaintext which becomes ciphertext, then       recipient then use a private to to decode it.
       
       
-      
+      A public key is needed to begin the encryption with the private key.
                                             
       
       
