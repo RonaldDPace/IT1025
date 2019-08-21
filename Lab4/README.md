@@ -17,9 +17,9 @@
       
       
         
-      Three daily tasks that are required to authenticate :
+      Three daily tasks that are required to authenticate :To identify the authorized accessor by; 
       
-      To identify the authorized by; (1) something they know.  (2) by something they have. (3) something they are.
+      (1) something they know. (2) by something they have. (3) something they are.
       
       Each can be converted to multifactor authentication by combining two or more of the three requirements to to                 authenticate.
       
