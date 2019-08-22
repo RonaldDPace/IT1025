@@ -81,6 +81,10 @@
       
       The Client-Server model applies to TCP/IP by the client/computer/device dails the server's phone  it lisens for it's IP address         and port numbers inorder to send and recieve data.The connection will remain open until the client or server disconnects.
       
+      Layers are important to changing techology because, any layer can be changed without affecting other layers.
+      
+      The types of applications that can run on "The Application Layer" are SMTP, FTP, HTTP, POP3, IMHP4, and SNMP.
+      
       
       
 ##### Internet Security
