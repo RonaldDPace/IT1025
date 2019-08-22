@@ -90,13 +90,18 @@
 ##### Internet Security
 
 
-
+       HTTP is a clear text that"s widely used for viewing web pages that supports the client-server model data vulnerable to hackers.
+       
+       Protocols used to make HTTP secure are,  HTTPS takes plain text data and makes it impossible to read through encryption. SSL uses        a digital certificate to authenticate with a public key.
+       
 
 
 ##### Securing your Web Browser
 
 
-
+      One should always secure their browser to protect critical data.
+      
+      One risk described in the article is without encryption all data can be read, used, or altered by hackers.
 ### Internet Programming
 
 
