@@ -63,16 +63,25 @@
 ### Internet Architecture
 
 
-
-
 ##### Internet Protocol
 
+
+      An IP address is the numbers assigned to computer, interface, device, or network that allows communication between them.
+      The difference between IPv4 and IPv6 is, IPv6 is the next generation after IPv4, and it's massively bigger than IPv4.
+      
+      ICANN is a nonprofit public benefit corporation that helps ensure a stable and unified global internet by cordinating unique             identifing naming system around the globe.
+      
 
 
 ##### TCP/IP
 
 
-
+      The resonsibility of TCP/IP is basically to define the details of how data is sent and recieved through network adapters,               hubs, switches, routers, and other network communication hardware.
+      
+      The Client-Server model applies to TCP/IP by the client/computer/device dails the server's phone  it lisens for it's IP address         and port numbers inorder to send and recieve data.The connection will remain open until the client or server disconnects.
+      
+      
+      
 ##### Internet Security
 
 
