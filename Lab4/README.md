@@ -92,7 +92,7 @@
 
        HTTP is a clear text that"s widely used for viewing web pages that supports the client-server model data vulnerable to hackers.
        
-       Protocols used to make HTTP secure are,  HTTPS takes plain text data and makes it impossible to read through encryption. SSL uses        a digital certificate to authenticate with a public key.
+       Protocols used to make HTTP secure are,  HTTPS takes plain text data and makes it impossible to read through encryption. SSL uses        a digital certificate to authenticate with a public key. TLS is the latest encryption protocol.
        
 
 
@@ -115,8 +115,6 @@
     
     A standard of "Cooperation" is most important , because none of the other standards would even be possible such as "Adherence to         Principles", "Collective Empowerment", "Availaility", and "Voluntary Adaption".
     
-
-
 
 
 ##### HTML5 and CSS
