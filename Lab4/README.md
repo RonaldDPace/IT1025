@@ -22,16 +22,17 @@
       
       (1) something they know. (2) by something they have. (3) something they are.
       
-      Each can be converted to multifactor authentication by combining two or more of the three requirements to to                 authenticate.
+      Each can be converted to multifactor authentication by combining two or more of the three requirements to to                             authenticate.
       
       
       ACL is a user list that ensures access to only appropriate information and or resoures. ACCESS CONTROL LIST.
       The advantage of an acl is each user only has access to specific capabilites such as read, delete ,or add data.
       
-      RBAC is a role based access control . The advantage to rbac is it can be easily modified when changing the duties that       are assigned, making managing less complexed over an ACL.
+      RBAC is a role based access control . The advantage to rbac is it can be easily modified when changing the duties that 
+      are assigned, making managing less complexed over an ACL.
       
       
-      The interaction of ciphertext: a sender uses a public key to encrypt and send plaintext which becomes ciphertext, then       recipient then use a private to to decode it.
+      The interaction of ciphertext: a sender uses a public key to encrypt and send plaintext which becomes ciphertext, then                   recipient then use a private to to decode it.
       
       
       A public key is needed to begin the encryption with the private key.
@@ -43,7 +44,7 @@
       
       Encryption is achieved by a three position shift of letters.( Caesar Cipher Exploration ) 
       
-      The result in using the "Frequency Fingerprint Exploration" it showed how many times  each letter been used in my             sentences. Where other langages are concerned yes the out-come would differ because of the spellings of words.
+      The result in using the "Frequency Fingerprint Exploration" it showed how many times  each letter been used in my                       sentences. Where other langages are concerned yes the out-come would differ because of the spellings of words.
       
       A "Polyalphabetic cipher" is a cipher that uses multiple subsitution alphabets.
       
