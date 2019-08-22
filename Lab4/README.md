@@ -6,6 +6,7 @@
 
 ##### Information Systems Security
 
+
       Each component of The Security Triad that would impact my job at Amazon :
       
       Confidentiality; Only share information about your duties and resources about my job with authoriized personnel.
@@ -47,6 +48,7 @@
       A "Polyalphabetic cipher" is a cipher that uses multiple subsitution alphabets.
       
       Polyalphabetical Exploration was a multi-shift fingerprint that's difficult to decipher.
+      
 
 
 ##### Brute-Force
@@ -54,6 +56,8 @@
       "Brute-Force" cryptanalytic technique is trying ever possible decryption key for a cipher.
        How this relates to Kerckhoffs"s principle is part of the cipher remains secret even when it's known
        how the cipher works.
+       
+       
 
 ### Internet Architecture
 
