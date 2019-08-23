@@ -120,10 +120,17 @@
 ##### HTML5 and CSS
 
 
-
+      The purpose of HTML in creating my web page is to edit my text using notepad with document type declaration then             adding alined web page. The purpose of CSS is to add presentation definition.
+      
+      
+      
 ##### HTML and XML
 
 
+      XML differs to HTML by tags are not predifined, it's designed to carry data-with a focus on what the data is.
+      HMTL was designed to display data with afocus on how the data looks.
+      
+      
       
 ### Components of a URL
 
