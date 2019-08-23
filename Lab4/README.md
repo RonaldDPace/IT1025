@@ -111,9 +111,9 @@
 ##### World Wide Web Consortium 
 
 
-    Tim Berners-Lee is the inventer of "The World Wide Web" ,and founder of (W3C). He created the (W3C) to lead the world wide web to       it's full potencial by developing protocols and guidelines that involves participation, sharing knowledge, thereby building trust on     a global scale.
+    Tim Berners-Lee is the inventer of "The World Wide Web" ,and founder of (W3C). He created the (W3C) to lead the world       wide web to       it's full potencial by developing protocols and guidelines that involves participation, sharing           knowledge, thereby building trust on a global scale.
     
-    A standard of "Cooperation" is most important , because none of the other standards would even be possible such as "Adherence to         Principles", "Collective Empowerment", "Availaility", and "Voluntary Adaption".
+    A standard of "Cooperation" is most important , because none of the other standards would even be possible such as           "Adherence to Principles", "Collective Empowerment", "Availaility", and "Voluntary Adaption".
     
 
 
