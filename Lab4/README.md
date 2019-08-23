@@ -132,13 +132,14 @@
       
       
       
-### Components of a URL
+##### Components of a URL
+
+
+       Http/s; is the scheme. (tells the type of address) . WWW.Wikipedia.org; is the domain. (shows the company that runs          the site) . Wikipedia.org is the the top level domain. (it ends with .com , .org ,and more...).  /w/index.php; is the        default page/file path. (it directs the browser to a specific page within the site). ?title=burrito; is the                  parameter. (starts with a question mark and provides information for the browser to load the correct the correct            page).  #breakfastburrito; is the anchor. (it starts with an hashtag and direct the browser to a specific part of a          long page).  
+       
+##### File Compression
 
 
 
-### File Compression
-
-
-
-### Conclusion
+##### Conclusion
 
