@@ -144,6 +144,9 @@
 
        The purpose and use of zipping/compressing files/folders is to group or archive multiple files/folers into one ,saving time and          resources.
        
+       The difference between the compressed files/folders, is it has one folder of 217kb. The uncompressed files/folders has three            files and one folder that uses 288kb.
+       
+       
        
 ##### Conclusion
 
