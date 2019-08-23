@@ -142,6 +142,8 @@
 ##### File Compression
 
 
-
+       The purpose and use of zipping/compressing files/folders is to group or archive multiple files/folers into one ,saving time and          resources.
+       
+       
 ##### Conclusion
 
