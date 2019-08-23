@@ -70,16 +70,17 @@
       An IP address is the numbers assigned to computer, interface, device, or network that allows communication between           them.
       The difference between IPv4 and IPv6 is, IPv6 is the next generation after IPv4, and it's massively bigger than IPv4.
       
-      ICANN is a nonprofit public benefit corporation that helps ensure a stable and unified global internet by cordinating       unique identifing naming system around the globe.
+      ICANN is a nonprofit public benefit corporation that helps ensure a stable and unified global internet by cordinating       unique       identifing naming system around the globe.
       
 
 
 ##### TCP/IP
 
 
-      The resonsibility of TCP/IP is basically to define the details of how data is sent and recieved through network             adapters, hubs, switches, routers, and other network communication hardware.
+      The resonsibility of TCP/IP is basically to define the details of how data is sent and recieved through network                         adapters, hubs, switches, routers, and other network communication hardware.
       
-      The Client-Server model applies to TCP/IP by the client/computer/device dails the server's phone  it lisens for it's         IP address and port numbers inorder to send and recieve data.The connection will remain open until the client or             server disconnects.
+      The Client-Server model applies to TCP/IP by the client/computer/device dails the server's phone  it lisens for it's IP         
+      address and port numbers inorder to send and recieve data.The connection will remain open until the client or server disconnects.
       
       Layers are important to changing techology because, any layer can be changed without affecting other layers.
       
@@ -90,9 +91,10 @@
 ##### Internet Security
 
 
-      HTTP is a clear text that"s widely used for viewing web pages that supports the client-server model data vulnerable         to hackers.
+      HTTP is a clear text that"s widely used for viewing web pages that supports the client-server model data vulnerable to hackers.
        
-      Protocols used to make HTTP secure are,  HTTPS takes plain text data and makes it impossible to read through                 encryption. SSL uses a digital certificate to authenticate with a public key. TLS is the latest encryption                   protocol.
+      Protocols used to make HTTP secure are,  HTTPS takes plain text data and makes it impossible to read through encryption. SSL uses 
+      a digital certificate to authenticate with a public key. TLS is the latest encryption protocol.
        
 
 
@@ -111,16 +113,16 @@
 ##### World Wide Web Consortium 
 
 
-      Tim Berners-Lee is the inventer of "The World Wide Web" ,and founder of (W3C). He created the (W3C) to lead the world       wide web to       it's full potencial by developing protocols and guidelines that involves participation, sharing           knowledge, thereby building trust on a global scale.
+      Tim Berners-Lee is the inventer of "The World Wide Web" ,and founder of (W3C). He created the (W3C) to lead the world wide web to       it's full potencial by developing protocols and guidelines that involves participation, sharing knowledge, thereby building trust       on a global scale.
     
-      A standard of "Cooperation" is most important , because none of the other standards would even be possible such as           "Adherence to Principles", "Collective Empowerment", "Availaility", and "Voluntary Adaption".
+      A standard of "Cooperation" is most important , because none of the other standards would even be possible such as                       "Adherence to Principles", "Collective Empowerment", "Availaility", and "Voluntary Adaption".
     
 
 
 ##### HTML5 and CSS
 
 
-      The purpose of HTML in creating my web page is to edit my text using notepad with document type declaration then             adding alined web page. The purpose of CSS is to add presentation definition.
+      The purpose of HTML in creating my web page is to edit my text using notepad with document type declaration then                         adding alined web page. The purpose of CSS is to add presentation definition.
       
       
       
@@ -135,7 +137,7 @@
 ##### Components of a URL
 
 
-       Http/s; is the scheme. (tells the type of address) . WWW.Wikipedia.org; is the domain. (shows the company that runs          the site) . Wikipedia.org is the the top level domain. (it ends with .com , .org ,and more...).  /w/index.php; is the        default page/file path. (it directs the browser to a specific page within the site). ?title=burrito; is the                  parameter. (starts with a question mark and provides information for the browser to load the correct the correct            page).  #breakfastburrito; is the anchor. (it starts with an hashtag and direct the browser to a specific part of a          long page).  
+       Http/s; is the scheme. (tells the type of address) . WWW.Wikipedia.org; is the domain. (shows the company that runs the site) .          Wikipedia.org is the the top level domain. (it ends with .com , .org ,and more...).  /w/index.php; is the default page/filepath          (it directs the browser to a specific page within the site). ?title=burrito; is the parameter. (starts with a question mark and          provides information for the browser to load the correct the correct page).  #breakfastburrito; is the anchor. (it starts with an        hashtag and direct the browser to a specific part of a long page).  
        
 ##### File Compression
 
