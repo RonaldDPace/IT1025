@@ -1,5 +1,5 @@
 ### Executive Summary 
-Include your executive summary here...
+
 
 ### Object Oriented Programming (OOP)
 
@@ -8,7 +8,7 @@ Include your executive summary here...
     
     The purpose of a constructor is to initialize data ,and runs soon as an object of a class is instantiated.
     
-    
+    A class is created by a programmer, An object is an instantiation of a class manifested in a program.
 
 ### Unified Modeling Language (UML)
 
